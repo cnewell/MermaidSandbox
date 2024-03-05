@@ -19,10 +19,10 @@ Customer ||--o{ Order : places
 ```mermaid
 timeline
         title Team Project Timeline
-        2024 Q1
+        section 2024 Q1
           Goal Area One : One A UI v1 : One B UI v1 : One B v2
           Goal Area Two : Two A UI v1 : Two B Prototyping
-        2024 Q2
+        section 2024 Q2
           Goal Area One : One A UI v2
           Goal Area Two : Two B v1
           Goal Area Four : Four A Prototyping
